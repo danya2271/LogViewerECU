@@ -6,5 +6,5 @@ python3 -m nuitka --standalone \
   --enable-plugin=numpy \
   --enable-plugin=matplotlib \
   --output-filename=ECU_Analyzer \
-  main.py
+  main.pyw
 echo "Готово!"

@@ -7,6 +7,6 @@ python -m nuitka --standalone ^
   --enable-plugin=matplotlib ^
   --windows-console-mode=disable ^
   --output-filename=ECU_Analyzer.exe ^
-  main.py
+  main.pyw
 echo Готово!
 pause
